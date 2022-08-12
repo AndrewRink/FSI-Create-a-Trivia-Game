@@ -8,31 +8,31 @@ let questions = [
       correctAnswer: "C"
     },
     {
-      text: `How would one say goodbye in Spanish?
-        A. Hola
-        B. Au Revoir
-        C. Salir
-        D. Adiós`,
+      text: `What Does Solaire Praise?
+        A. The Moon
+        B. Gold
+        C. Souls
+        D. The Sun`,
       correctAnswer: "D"
     },
     {
-      text: `What is the French word for 'hat'?
-        A.  Casque
-        B. Chapeau
-        C. Bonnet
-        D. Écharpe`,
+      text: `What is the last name of the main character of 'Bluey'?
+        A. Dog
+        B. Heeler
+        C. Woofer
+        D. Sluggins`,
       correctAnswer: "B"
     },
     {
-      text: `The New York Times slogan is, 'All the News That's Fit to...';
-        A. Digest
-        B. Look
-        C. Read
-        D. Print`,
+      text: `Finish the Van Morrison Lyric, "You're my..."
+        A. Brown Eyed Squirrel
+        B. Cross Eyed Girl
+        C. Tilt-a-Whirl
+        D. Brown Eyed Girl`,
       correctAnswer: "D"
     },
     {
-      text: `Which restaurant's mascot is a clown?
+      text: `Which restaurant's mascot is a spooky clown?
         A. Chick-Fil-A
         B. Sonic
         C. McDonald's
@@ -40,19 +40,19 @@ let questions = [
       correctAnswer: "C"
     },
     {
-      text: `Which of the following is the IATA code for Manchester Airport?
-        A. MAN
-        B. EGLL
-        C. LHR
-        D. EGCC`,
+      text: `Who is the Strongest Avenger?
+        A. Thor
+        B. Hulk
+        C. Iron Man
+        D. Captain America`,
       correctAnswer: "A"
     },
     {
-      text: `If you are caught 'Goldbricking', what are you doing wrong?
-        A. Stealing
-        B. Cheating
-        C. Slacking
-        D. Smoking`,
+      text: `What type of fiber art is done with a hook?
+        A. Knitting
+        B. Embroidery
+        C. Crochet
+        D. Sewing`,
       correctAnswer: "C"
     },
     {
@@ -64,19 +64,19 @@ let questions = [
       correctAnswer: "B"
     },
     {
-      text: `What are Panama hats made out of?
-        A. Silk
-        B. Hemp
-        C. Flax
-        D. Straw`,
+      text: `Who is Luke's Father?
+        A. Obi-Wan Kenobi
+        B. Jar Jar Binks
+        C. Darth Maul
+        D. Darth Vader`,
       correctAnswer: "D"
     },
     {
-      text: `What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?
-        A. Jet
-        B. Space Capsule
-        C. Helicopter
-        D. Stealth Blimp`,
+      text: `What is a monster disguised as something else called?
+        A. Imposter
+        B. Poser
+        C. Mimic
+        D. Chameleon`,
       correctAnswer: "C"
     }
   ]
