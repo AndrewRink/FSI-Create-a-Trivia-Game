@@ -1,10 +1,10 @@
 let questions = [
     {
-      text: `What is the first book of the Old Testament?
-        A. Leviticus
-        B. Numbers
-        C. Genesis
-        D. Exodus`,
+      text: `What is the first book of the Lord of the Rings?
+        A. The Two Towers
+        B. The Hobbit
+        C. The Fellowship of the Ring
+        D. The Return of the King`,
       correctAnswer: "C"
     },
     {
